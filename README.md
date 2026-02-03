@@ -141,7 +141,8 @@ graph LR
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/dashboard-ventas-automotrices.git
+git clone https://github.com/RogerCipa7/-Dashboard-de-Analisis-de-Ventas-Automotrices.git
+
 cd dashboard-ventas-automotrices
 
 # 2. Crear entorno virtual
@@ -385,7 +386,5 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 <div align="center">
 
 ### ⭐ Si este proyecto te fue útil, considera darle una estrella
-
-**Hecho con ❤️ para la comunidad de desarrolladores**
 
 </div>
